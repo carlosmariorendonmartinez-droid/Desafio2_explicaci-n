@@ -24,4 +24,9 @@ int main() {
     //  - explorar música
     //  - ver favoritos
     //  - crear listas
-    //  - seguir otros
+    //  - seguir otros usuarios
+    //  - etc.
+
+    return 0;
+    // Retorno 0 significa que el programa terminó correctamente.
+}
